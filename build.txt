@@ -1,4 +1,4 @@
 displayName = Craft Watch At Workbench
 author = NoLongerLucky
-version = 1.0
+version = 1.0.0.1
 homepage = https://github.com/NoLongerLucky/CraftWatchAtWorkbench
