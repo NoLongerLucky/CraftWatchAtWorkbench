@@ -1,0 +1,1 @@
+A simple Terraria mod that allows watches to be crafted at workbenches rather than a table+chair combo.
